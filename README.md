@@ -1,5 +1,4 @@
-# Electric Vehicle Data Analysis Dashboard (1997-2024)
-
+# Driving Insights: Comprehensive Analysis of Electric Vehicle Trends and Performance
 This repository contains an interactive Power BI dashboard for analyzing electric vehicle (EV) data, showcasing insights into vehicle distribution, market trends, and Clean Alternative Fuel Vehicle (CAFV) eligibility. The project provides comprehensive visualization and analysis of the EV population, catering to policymakers, manufacturers, and EV enthusiasts.
 
 ---
